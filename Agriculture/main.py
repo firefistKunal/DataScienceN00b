@@ -26,9 +26,10 @@ state_data=original[original['State_Name']==state]
 data=state_data.groupby(['Crop_Year','Crop'])['Area'].agg(np.sum).reset_index().pivot(index='Crop', columns='Crop_Year')
 choice=int(input("Enter 1 to get share of crops in state as pie chart\nor Enter 2 to get change in crop area through years\n"))
 if choice==1:
-    cropAreaPerYear(data)
-elif choice==2:
     cropShare(data)
+elif choice==2:
+    cropAreaPerYear(data)
+    
 else:
     print("\nYou chose poorly\n")
 
