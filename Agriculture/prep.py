@@ -2,10 +2,9 @@ import pandas as pd
 import numpy as np
 
 class crop:
-    name=""
-    year=""
-    area=""
-    production=""
+    def __init__(self, name):
+        self.name=name
+        
 
     def __init__(self, raw):
         raw_data=raw
