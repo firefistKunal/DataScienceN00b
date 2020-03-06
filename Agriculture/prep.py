@@ -4,10 +4,8 @@ import numpy as np
 class crop:
     def __init__(self, name):
         self.name=name
-        
-
-    def __init__(self, raw):
-        raw_data=raw
+        self.raw=pd.read_csv("apy.csv")
+        self.data=self.raw[self.raw["Crop"]==self.name]
 
 class district():
     name=""
@@ -33,6 +31,5 @@ class state():
         return (self.totalProduction(year)/self.totalArea(year))*100
 
 
-state=state("Chhattisgarh")
-print(state.totalProduction(2014))
-print(state.efficiency(2014))
+rice=crop("Rice")
+print(rice.data.head(10))
