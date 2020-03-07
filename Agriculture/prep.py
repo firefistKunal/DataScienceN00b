@@ -7,11 +7,9 @@ class crop:
         self.raw=pd.read_csv("apy.csv")
         self.data=self.raw[self.raw["Crop"]==self.name]
 
-class district():
-    name=""
-    area=""
-    def __init__(self, raw):
-        self.in_data=raw
+    def nationalArea(self, year):
+        self.area=self.data.groupby(['Crop_Year'])['Area'].agg(np.sum)
+        return self.area[year]
 
 class state():
 
@@ -19,17 +17,18 @@ class state():
         self.name=name
         self.raw=pd.read_csv("apy.csv")
         self.data=self.raw[self.raw["State_Name"]==self.name]
+
     def totalArea(self, year):
-        self.area=self.data.groupby(['Crop_Year'])['Area'].agg(np.sum)
-        return state.area[year]
+        self.area = self.data.groupby(['Crop_Year'])['Area'].agg(np.sum)
+        return self.area[year]
     
     def totalProduction(self, year):
         self.area=self.data.groupby(['Crop_Year'])['Production'].agg(np.sum)
-        return state.area[year]
+        return self.area[year]
 
     def efficiency(self, year):
         return (self.totalProduction(year)/self.totalArea(year))*100
 
 
 rice=crop("Rice")
-print(rice.data.head(10))
+print(rice.nationalArea(2014))
