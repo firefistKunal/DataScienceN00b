@@ -10,6 +10,10 @@ class crop:
     def nationalArea(self, year):
         self.area=self.data.groupby(['Crop_Year'])['Area'].agg(np.sum)
         return self.area[year]
+    
+    def nationalProduction(self, year):
+        self.production=self.data.groupby(['Crop_Year'])['Production'].agg(np.sum)
+        return self.production[year]
 
 class state():
 
@@ -31,4 +35,4 @@ class state():
 
 
 rice=crop("Rice")
-print(rice.nationalArea(2014))
+print(rice.nationalProduction(2014))
