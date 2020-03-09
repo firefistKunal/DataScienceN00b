@@ -15,6 +15,9 @@ class crop:
         self.production=self.data.groupby(['Crop_Year'])['Production'].agg(np.sum)
         return self.production[year]
 
+    def efficiency(self, year):
+        return (self.nationalProduction(year)/self.nationalArea(year))*100
+
 class state():
 
     def __init__(self, name):
@@ -35,4 +38,4 @@ class state():
 
 
 rice=crop("Rice")
-print(rice.nationalProduction(2014))
+print(rice.efficiency(2014))
