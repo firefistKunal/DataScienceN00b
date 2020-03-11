@@ -9,7 +9,7 @@ for key,item in yr:
     print(df, "\n\n")
     maxyear=df['Crop_Year'].max()
     print(maxyear)
-    print(df.loc[('2001'),'Area'])
+    # print(df.loc[('maxyear'),'Area'])
 
 
 
