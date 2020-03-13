@@ -1,4 +1,5 @@
 import pandas as pd 
+import numpy as np
 import csv
 from datetime import datetime as dt
 
@@ -27,7 +28,7 @@ def addInfection():
 
 while int(input("1 to Add\n0 to close")):
 
-    print(data)
+    print(data.groupby(['State'])['Infected'].agg(np.sum))
     data.loc[len(data)]=addInfection()
     print(data)
     data.to_csv('covid-19(india).csv', index=False)
