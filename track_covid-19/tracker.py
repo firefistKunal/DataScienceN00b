@@ -27,8 +27,8 @@ def addInfection():
 
 
 while int(input("1 to Add\n0 to close")):
-    dt=data.groupby(['State'])['Infected'].agg(np.sum).to_frame()
-    print(dt.sort_values(by=['Infected'], ascending=False))
+    df=data.groupby(['State'])['Infected'].agg(np.sum).to_frame()
+    print(df.sort_values(by=['Infected'], ascending=False))
     data.loc[len(data)]=addInfection()
     print(data)
     data.to_csv('covid-19(india).csv', index=False)
