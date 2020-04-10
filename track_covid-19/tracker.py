@@ -5,12 +5,12 @@ from datetime import datetime as dt, timedelta as td
 
 data=pd.read_csv('covid-19(india).csv')
 
-def date():
-
-    return dt.now().strftime("%d-%m-%Y")
 # def date():
-#     day=dt.now()-td(1)
-#     return day.strftime("%d-%m-%Y")
+
+#     return dt.now().strftime("%d-%m-%Y")
+def date():
+    day=dt.now()-td(2)
+    return day.strftime("%d-%m-%Y")
 
 def time():
     if dt.now().strftime("%p")=="AM":
