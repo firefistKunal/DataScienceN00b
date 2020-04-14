@@ -1,4 +1,4 @@
-State,Place,Date,Time,Infected,Total_Infected
+﻿State,Place,Date,Time,Infected,Total_Infected
 Kerela,Thrissur,03-02-2020,Morning,1,1
 Kerela,Alappuzha,03-02-2020,Morning,1,2
 Kerela,Kasargod,03-02-2020,Morning,1,3
@@ -531,3 +531,28 @@ Odisha, ,12-04-2020,Evening,4,9210
 Chhattisgarh, ,12-04-2020,Evening,7,9217
 Chandigarh, ,12-04-2020,Evening,2,9219
 Jharkhand, ,12-04-2020,Evening,2,9221
+Maharashtra, ,14-04-2020,Evening,702,9923
+Delhi, ,14-04-2020,Evening,407,10330
+Tamil Nadu, ,14-04-2020,Evening,129,10459
+Rajasthan, ,14-04-2020,Evening,201,10660
+Madhya Pradesh, ,14-04-2020,Evening,179,10839
+Uttar Pradesh, ,14-04-2020,Evening,177,11016
+Gujarat, ,14-04-2020,Evening,134,11150
+Telangana, ,14-04-2020,Evening,113,11263
+Andhra Pradesh, ,14-04-2020,Evening,53,11316
+Kerela, ,14-04-2020,Evening,11,11327
+Jammu And Kashmir, ,14-04-2020,Evening,33,11360
+Karnataka, ,14-04-2020,Evening,28,11388
+Haryana, ,14-04-2020,Evening,3,11391
+West Bengal, ,14-04-2020,Evening,56,11447
+Punjab, ,14-04-2020,Evening,14,11461
+Bihar, ,14-04-2020,Evening,2,11463
+Odisha, ,14-04-2020,Evening,6,11469
+Uttarakhand, ,14-04-2020,Evening,2,11471
+Chhattisgarh, ,14-04-2020,Evening,8,11479
+Assam, ,14-04-2020,Evening,3,11482
+Himachal Pradesh, ,14-04-2020,Evening,0,11482
+Jharkhand, ,14-04-2020,Evening,8,11490
+Ladakh, ,14-04-2020,Evening,2,11492
+Meghalaya, ,14-04-2020,Evening,1,11493
+Nagaland, ,14-04-2020,Evening,1,11494
