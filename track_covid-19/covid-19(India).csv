@@ -1,4 +1,4 @@
-﻿State,Place,Date,Time,Infected,Total_Infected
+State,Place,Date,Time,Infected,Total_Infected
 Kerela,Thrissur,03-02-2020,Morning,1,1
 Kerela,Alappuzha,03-02-2020,Morning,1,2
 Kerela,Kasargod,03-02-2020,Morning,1,3
@@ -556,3 +556,33 @@ Jharkhand, ,14-04-2020,Evening,8,11490
 Ladakh, ,14-04-2020,Evening,2,11492
 Meghalaya, ,14-04-2020,Evening,1,11493
 Nagaland, ,14-04-2020,Evening,1,11494
+Maharashtra, ,15-04-2020,Evening,232,11726
+Delhi, ,15-04-2020,Evening,0,11726
+Tamil Nadu, ,15-04-2020,Evening,38,11764
+Rajasthan, ,15-04-2020,Evening,41,11805
+Uttar Pradesh, ,15-04-2020,Evening,75,11880
+Gujarat, ,15-04-2020,Evening,45,11925
+Telangana, ,15-04-2020,Evening,0,11925
+Andhra Pradesh, ,15-04-2020,Evening,29,11954
+Kerela, ,15-04-2020,Evening,1,11955
+Jammu And Kashmir, ,15-04-2020,Evening,22,11977
+Karnataka, ,15-04-2020,Evening,19,11996
+West Bengal, ,15-04-2020,Evening,23,12019
+Haryana, ,15-04-2020,Evening,6,12025
+Punjab, ,15-04-2020,Evening,2,12027
+Bihar, ,15-04-2020,Evening,4,12031
+Himachal Pradesh, ,15-04-2020,Evening,1,12032
+Meghalaya, ,15-04-2020,Evening,6,12038
+Maharashtra, ,15-04-2020,Evening,0,12038
+Delhi, ,15-04-2020,Evening,17,12055
+Tamil Nadu, ,15-04-2020,Evening,0,12055
+Rajasthan, ,15-04-2020,Evening,0,12055
+Madhya Pradesh, ,15-04-2020,Evening,197,12252
+Gujarat, ,15-04-2020,Evening,71,12323
+Uttar Pradesh, ,15-04-2020,Evening,0,12323
+Telangana, ,15-04-2020,Evening,6,12329
+Andhra Pradesh, ,15-04-2020,Evening,23,12352
+Kerela, ,15-04-2020,Evening,0,12352
+Bihar, ,15-04-2020,Evening,2,12354
+Himachal Pradesh, ,15-04-2020,Evening,2,12356
+Jharkhand, ,15-04-2020,Evening,1,12357
