@@ -3,7 +3,7 @@ import numpy as np
 import csv
 from datetime import datetime as dt, timedelta as td
 
-data=pd.read_csv('covid-19(india).csv')
+data=pd.read_csv('covid-19(India).csv')
 
 def date():
 

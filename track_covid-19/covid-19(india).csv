@@ -1,0 +1,742 @@
+State,Place,Date,Time,Infected,Total_Infected
+Kerela,Thrissur,03-02-2020,Morning,1,1
+Kerela,Alappuzha,03-02-2020,Morning,1,2
+Kerela,Kasargod,03-02-2020,Morning,1,3
+Delhi,Delhi,02-03-2020,Morning,1,4
+Telangana,Hyderabad,02-03-2020,Morning,1,5
+Rajasthan,Jaipur,03-03-2020,Morning,2,7
+Haryana,Foreign,04-03-2020,Morning,14,21
+Uttar Pradesh,Agra,04-03-2020,Morning,6,27
+Delhi,Gurugram,05-03-2020,Morning,1,28
+Delhi,Ghaziabad,06-03-2020,Morning,1,29
+Delhi,Delhi,06-03-2020,Morning,1,30
+Ladakh,Ladakh,07-03-2020,Morning,2,32
+Tamil Nadu,Chennai,07-03-2020,Morning,1,33
+Kerela,Pathnamthitta,08-03-2020,Morning,5,38
+Kerela,Ernakulum,09-03-2020,Morning,1,39
+Uttar Pradesh,Agra,09-03-2020,Morning,3,42
+Jammu And Kashmir,Jammu,09-03-2020,Morning,1,43
+Punjab,Hoshiyarpur,09-03-2020,Evening,1,44
+Karnataka,Bengaluru,09-03-2020,Evening,1,45
+Karnataka,Bengaluru,10-03-2020,Evening,3,48
+Maharashtra,Pune,10-03-2020,Evening,2,50
+Kerela,Pathanamthitta,10-03-2020,Evening,6,56
+Maharashtra,Pune,11-03-2020,Morning,3,59
+Kerela,Ernakulum,11-03-2020,Morning,2,61
+Rajasthan,Jaipur,11-03-2020,Evening,1,62
+Delhi,Delhi,11-03-2020,Evening,1,63
+Delhi,Delhi,12-03-2020,Evening,1,64
+Uttar Pradesh, ,12-03-2020,Evening,2,66
+Ladakh,Ladakh,12-03-2020,Evening,1,67
+Maharashtra, ,12-03-2020,Evening,6,73
+Andhra Pradesh, ,12-03-2020,Evening,1,74
+Karnataka, ,13-03-2020,Evening,2,76
+Maharashtra,Mumbai,13-03-2020,Evening,3,79
+Kerela, ,13-03-2020,Evening,2,81
+Delhi,Delhi,13-03-2020,Evening,1,82
+Jammu And Kashmir, ,15-03-2020,Evening,1,83
+Kerela, ,15-03-2020,Evening,3,86
+Rajasthan, ,15-03-2020,Evening,1,87
+Telangana, ,15-03-2020,Evening,2,89
+Maharashtra, ,15-03-2020,Evening,17,106
+Uttar Pradesh, ,15-03-2020,Evening,1,107
+Kerela, ,16-03-2020,Evening,1,108
+Maharashtra, ,16-03-2020,Evening,1,109
+Odisha, ,16-03-2020,Evening,1,110
+Uttarakhand, ,16-03-2020,Evening,1,111
+Ladakh,1,16-03-2020,Evening,1,112
+Jammu And Kashmir, ,16-03-2020,Evening,1,113
+Uttar Pradesh, ,16-03-2020,Evening,1,114
+West Bengal, ,18-03-2020,Evening,1,115
+Ladakh, ,18-03-2020,Evening,4,119
+Telangana, ,18-03-2020,Evening,3,122
+Delhi, ,18-03-2020,Evening,3,125
+Maharashtra, ,18-03-2020,Evening,10,135
+Pondicherry, ,18-03-2020,Evening,1,136
+Haryana, ,18-03-2020,Evening,3,139
+Karnataka, ,18-03-2020,Evening,5,144
+Kerela,,18-03-2020,Evening,4,148
+Uttar Pradesh, ,18-03-2020,Evening,3,151
+Andhra Pradesh, ,19-03-2020,Evening,1,152
+Chhattisgarh, ,19-03-2020,Evening,1,153
+Delhi, ,19-03-2020,Evening,5,158
+Karnataka, ,19-03-2020,Evening,4,162
+Kerela, ,19-03-2020,Evening,3,165
+Maharashtra, ,19-03-2020,Evening,5,170
+Punjab, ,19-03-2020,Evening,1,171
+Rajasthan, ,19-03-2020,Evening,6,177
+Tamil Nadu, ,19-03-2020,Evening,2,179
+Telangana, ,19-03-2020,Evening,1,180
+Chandigarh,Chandigarh,19-03-2020,Evening,1,181
+Jammu And Kashmir,,19-03-2020,Evening,1,182
+Uttar Pradesh, ,19-03-2020,Evening,12,194
+Delhi,,19-03-2020,Evening,1,195
+Maharashtra, ,19-03-2020,Evening,1,196
+Punjab, ,19-03-2020,Evening,1,197
+Andhra Pradesh, ,20-03-2020,Evening,1,198
+Delhi, ,20-03-2020,Evening,7,205
+Gujarat, ,20-03-2020,Evening,5,210
+Karnataka, ,20-03-2020,Evening,2,212
+Kerela, ,20-03-2020,Evening,1,213
+Maharashtra, ,20-03-2020,Evening,5,218
+Odisha, ,20-03-2020,Evening,1,219
+Rajasthan, ,20-03-2020,Evening,10,229
+Tamil Nadu, ,20-03-2020,Evening,1,230
+Telangana, ,20-03-2020,Evening,11,241
+Ladakh, ,20-03-2020,Evening,2,243
+Uttar Pradesh, ,20-03-2020,Evening,4,247
+Uttarakhand, ,20-03-2020,Evening,2,249
+West Bengal, ,20-03-2020,Evening,1,250
+Delhi, ,21-03-2020,Evening,9,259
+Gujarat, ,21-03-2020,Evening,2,261
+Himachal Pradesh, ,21-03-2020,Evening,2,263
+Kerela, ,21-03-2020,Evening,12,275
+Madhya Pradesh, ,21-03-2020,Evening,4,279
+Maharashtra, ,21-03-2020,Evening,11,290
+Punjab, ,21-03-2020,Evening,11,301
+Telangana, ,21-03-2020,Evening,4,305
+Ladakh, ,21-03-2020,Evening,3,308
+Uttar Pradesh, ,21-03-2020,Evening,1,309
+West Bengal, ,21-03-2020,Evening,1,310
+Andhra Pradesh, ,22-03-2020,Evening,2,312
+Bihar, ,22-03-2020,Evening,3,315
+Delhi, ,22-03-2020,Evening,3,318
+Gujarat, ,22-03-2020,Evening,12,330
+Haryana, ,22-03-2020,Evening,4,334
+Karnataka, ,22-03-2020,Evening,12,346
+Kerela, ,22-03-2020,Evening,12,358
+Maharashtra, ,22-03-2020,Evening,5,363
+Punjab, ,22-03-2020,Evening,8,371
+Rajasthan, ,22-03-2020,Evening,7,378
+Tamil Nadu, ,22-03-2020,Evening,4,382
+Telangana, ,22-03-2020,Evening,1,383
+Chandigarh, ,22-03-2020,Evening,4,387
+Uttar Pradesh, ,22-03-2020,Evening,3,390
+West Bengal, ,22-03-2020,Evening,1,391
+Andhra Pradesh, ,23-03-2020,Evening,2,393
+Haryana, ,23-03-2020,Evening,16,409
+Himachal Pradesh, ,23-03-2020,Evening,2,411
+Maharashtra, ,23-03-2020,Evening,7,418
+Rajasthan, ,23-03-2020,Evening,4,422
+Tamil Nadu, ,23-03-2020,Evening,2,424
+Telangana, ,23-03-2020,Evening,10,434
+Chandigarh, ,23-03-2020,Evening,1,435
+Uttar Pradesh, ,23-03-2020,Evening,4,439
+West Bengal, ,23-03-2020,Evening,4,443
+Gujarat, ,23-03-2020,Evening,11,454
+Karnataka, ,23-03-2020,Evening,7,461
+Kerela, ,23-03-2020,Evening,15,476
+Madhya Pradesh, ,23-03-2020,Evening,2,478
+Andhra Pradesh, ,24-03-2020,Evening,1,479
+Bihar, ,24-03-2020,Evening,1,480
+Delhi, ,24-03-2020,Evening,3,483
+Gujarat, ,24-03-2020,Evening,4,487
+Haryana, ,24-03-2020,Evening,2,489
+Karnataka, ,24-03-2020,Evening,5,494
+Kerela, ,24-03-2020,Evening,29,523
+Madhya Pradesh, ,24-03-2020,Evening,1,524
+Maharashtra, ,24-03-2020,Evening,15,539
+Manipur, ,24-03-2020,Evening,1,540
+Punjab, ,24-03-2020,Evening,8,548
+Rajasthan, ,24-03-2020,Evening,4,552
+Tamil Nadu, ,24-03-2020,Evening,6,558
+Telangana, ,24-03-2020,Evening,3,561
+Chandigarh, ,24-03-2020,Evening,1,562
+Uttar Pradesh, ,24-03-2020,Evening,4,566
+Uttarakhand, ,24-03-2020,Evening,1,567
+West Bengal, ,24-03-2020,Evening,2,569
+Andhra Pradesh, ,25-03-2020,Evening,2,571
+Bihar, ,25-03-2020,Evening,1,572
+Gujarat, ,25-03-2020,Evening,5,577
+Karnataka, ,25-03-2020,Evening,4,581
+Kerela, ,25-03-2020,Evening,14,595
+Madhya Pradesh, ,25-03-2020,Evening,7,602
+Maharashtra, ,25-03-2020,Evening,41,643
+Mizoram, ,25-03-2020,Evening,1,644
+Rajasthan, ,25-03-2020,Evening,4,648
+Tamil Nadu, ,25-03-2020,Evening,3,651
+Jammu And Kashmir, ,25-03-2020,Evening,4,655
+Uttar Pradesh, ,25-03-2020,Evening,4,659
+Andaman And Nicobar, ,26-03-2020,Evening,1,660
+Andhra Pradesh, ,26-03-2020,Evening,2,662
+Bihar, ,26-03-2020,Evening,2,664
+Delhi, ,26-03-2020,Evening,4,668
+Goa, ,26-03-2020,Evening,3,671
+Gujarat, ,26-03-2020,Evening,7,678
+Haryana, ,26-03-2020,Evening,2,680
+Jammu And Kashmir, ,26-03-2020,Evening,7,687
+Karnataka, ,26-03-2020,Evening,15,702
+Kerela, ,26-03-2020,Evening,11,713
+Madhya Pradesh, ,26-03-2020,Evening,7,720
+Maharashtra, ,26-03-2020,Evening,-4,716
+Punjab, ,26-03-2020,Evening,4,720
+Rajasthan, ,26-03-2020,Evening,5,725
+Tamil Nadu, ,26-03-2020,Evening,9,734
+Telangana, ,26-03-2020,Evening,9,743
+Uttarakhand, ,26-03-2020,Evening,1,744
+West Bengal, ,26-03-2020,Evening,1,745
+Uttar Pradesh, ,26-03-2020,Evening,4,749
+Chhattisgarh, ,26-03-2020,Evening,5,754
+Delhi, ,26-03-2020,Evening,1,755
+Andhra Pradesh, ,27-03-2020,Evening,1,756
+Kerela, ,27-03-2020,Evening,20,776
+Ladakh, ,27-03-2020,Morning,3,779
+Maharashtra, ,27-03-2020,Morning,21,800
+Tamil Nadu, ,27-03-2020,Morning,3,803
+Telangana, ,27-03-2020,Morning,1,804
+Kerela, ,27-03-2020,Morning,4,808
+Andaman And Nicobar, ,28-03-2020,Evening,5,814
+Bihar, ,28-03-2020,Evening,2,816
+Chandigarh, ,28-03-2020,Evening,1,817
+Kerela, ,28-03-2020,Evening,34,851
+Maharashtra, ,28-03-2020,Evening,18,869
+Karnataka, ,28-03-2020,Evening,14,883
+Telangana, ,28-03-2020,Evening,19,902
+Uttar Pradesh, ,28-03-2020,Evening,3,905
+Gujarat, ,28-03-2020,Evening,8,913
+Rajasthan, ,28-03-2020,Evening,10,923
+Tamil Nadu, ,28-03-2020,Evening,11,934
+Delhi, ,28-03-2020,Evening,-3,931
+Punjab, ,28-03-2020,Evening,4,935
+Haryana, ,28-03-2020,Evening,-8,927
+Madhya Pradesh, ,28-03-2020,Evening,12,939
+Jammu And Kashmir, ,28-03-2020,Evening,12,951
+West Bengal, ,28-03-2020,Evening,4,955
+Andhra Pradesh, ,28-03-2020,Evening,0,955
+Ladakh, ,28-03-2020,Evening,-3,952
+Chhattisgarh, ,28-03-2020,Evening,1,953
+Uttarakhand, ,28-03-2020,Evening,1,954
+Himachal Pradesh, ,28-03-2020,Evening,-1,952
+Odisha, ,28-03-2020,Evening,1,953
+Maharashtra, ,29-03-2020,Evening,36,989
+Kerela, ,29-03-2020,Evening,20,1009
+Karnataka, ,29-03-2020,Evening,9,1018
+Delhi, ,29-03-2020,Evening,32,1050
+Uttar Pradesh, ,29-03-2020,Evening,17,1084
+Telangana, ,29-03-2020,Evening,5,1089
+Gujarat, ,29-03-2020,Evening,9,1098
+Rajasthan, ,29-03-2020,Evening,5,1103
+Tamil Nadu, ,29-03-2020,Evening,8,1111
+Madhya Pradesh, ,29-03-2020,Evening,6,1117
+Jammu And Kashmir, ,29-03-2020,Evening,11,1128
+Haryana, ,29-03-2020,Evening,2,1130
+West Bengal, ,29-03-2020,Evening,5,1135
+Andhra Pradesh, ,29-03-2020,Evening,6,1141
+Bihar, ,29-03-2020,Evening,6,1147
+Andaman And Nicobar, ,29-03-2020,Evening,3,1150
+Uttarakhand, ,29-03-2020,Evening,1,1151
+Goa, ,29-03-2020,Evening,2,1153
+Kerela, ,30-03-2020,Evening,32,1185
+Maharashtra, ,30-03-2020,Evening,17,1202
+Delhi, ,30-03-2020,Evening,25,1227
+Uttar Pradesh, ,30-03-2020,Evening,24,1251
+Karnataka, ,30-03-2020,Evening,8,1259
+Telangana, ,30-03-2020,Evening,7,1266
+Gujarat, ,30-03-2020,Evening,7,1273
+Rajasthan, ,30-03-2020,Evening,10,1283
+Tamil Nadu, ,30-03-2020,Evening,17,1300
+Jammu And Kashmir, ,30-03-2020,Evening,11,1311
+Madhya Pradesh, ,30-03-2020,Evening,8,1319
+Punjab, ,30-03-2020,Evening,3,1322
+Haryana, ,30-03-2020,Evening,1,1323
+Andhra Pradesh, ,30-03-2020,Evening,4,1327
+West Bengal, ,30-03-2020,Evening,2,1329
+Chandigarh, ,30-03-2020,Evening,5,1334
+Andaman And Nicobar, ,30-03-2020,Evening,1,1335
+Maharashtra, ,31-03-2020,Evening,68,1403
+Maharashtra, ,31-03-2020,Evening,14,1417
+Kerela, ,31-03-2020,Evening,7,1424
+Tamil Nadu, ,31-03-2020,Evening,57,1481
+Delhi, ,31-03-2020,Evening,23,1504
+Karnataka, ,31-03-2020,Evening,10,1514
+Uttar Pradesh, ,31-03-2020,Evening,5,1519
+Rajasthan, ,31-03-2020,Evening,14,1533
+Rajasthan, ,31-03-2020,Evening,10,1543
+Telangana, ,31-03-2020,Evening,15,1558
+Gujarat, ,31-03-2020,Evening,4,1562
+Madhya Pradesh, ,31-03-2020,Evening,19,1581
+Jammu And Kashmir, ,31-03-2020,Evening,6,1587
+Andhra Pradesh, ,31-03-2020,Evening,21,1608
+Haryana, ,31-03-2020,Evening,7,1615
+West Bengal, ,31-03-2020,Evening,5,1620
+Bihar, ,31-03-2020,Evening,6,1626
+Chandigarh, ,31-03-2020,Evening,2,1628
+Chhattisgarh, ,31-03-2020,Evening,2,1630
+Odisha, ,31-03-2020,Evening,1,1631
+Assam, ,31-03-2020,Evening,1,1632
+Jharkhand, ,31-03-2020,Evening,1,1633
+Maharashtra, ,01-04-2020,Evening,23,1656
+Delhi, ,01-04-2020,Evening,1,1657
+Maharashtra, ,01-04-2020,Evening,10,1667
+Kerela, ,01-04-2020,Evening,24,1691
+Tamil Nadu, ,01-04-2020,Evening,110,1801
+Delhi, ,01-04-2020,Evening,31,1832
+Rajasthan, ,01-04-2020,Evening,27,1859
+Uttar Pradesh, ,01-04-2020,Evening,15,1874
+Andhra Pradesh, ,01-04-2020,Evening,67,1941
+Karnataka, ,01-04-2020,Evening,9,1950
+Telangana, ,01-04-2020,Evening,5,1955
+Gujarat, ,01-04-2020,Evening,13,1968
+Madhya Pradesh, ,01-04-2020,Evening,20,1988
+Jammu And Kashmir, ,01-04-2020,Evening,7,1995
+Punjab, ,01-04-2020,Evening,5,2000
+West Bengal, ,01-04-2020,Evening,10,2010
+Bihar, ,01-04-2020,Evening,3,2013
+Assam, ,01-04-2020,Evening,12,2025
+Pondicherry, ,01-04-2020,Evening,2,2027
+Maharashtra, ,02-04-2020,Evening,81,2108
+Tamil Nadu, ,02-04-2020,Evening,75,2183
+Delhi, ,02-04-2020,Evening,141,2324
+Kerela, ,02-04-2020,Evening,21,2345
+Andhra Pradesh, ,02-04-2020,Evening,32,2377
+Rajasthan, ,02-04-2020,Evening,13,2390
+Telangana, ,02-04-2020,Evening,30,2420
+Karnataka, ,02-04-2020,Evening,11,2431
+Uttar Pradesh, ,02-04-2020,Evening,4,2435
+Uttar Pradesh, ,02-04-2020,Evening,1,2436
+Madhya Pradesh, ,02-04-2020,Evening,14,2450
+Jammu And Kashmir, ,02-04-2020,Evening,8,2458
+West Bengal, ,02-04-2020,Evening,16,2474
+Haryana, ,02-04-2020,Evening,6,2480
+Punjab, ,02-04-2020,Evening,1,2481
+Chandigarh, ,02-04-2020,Evening,3,2484
+Jharkhand, ,02-04-2020,Evening,1,2485
+Manipur, ,02-04-2020,Evening,1,2486
+Arunachal Pradesh, ,02-04-2020,Evening,1,2487
+Assam, ,02-04-2020,Evening,3,2490
+Odisha, ,02-04-2020,Evening,1,2491
+Maharashtra, ,03-04-2020,Evening,7,2498
+Tamil Nadu, ,03-04-2020,Evening,102,2600
+Delhi, ,03-04-2020,Evening,91,2691
+Kerela, ,03-04-2020,Evening,9,2700
+Uttar Pradesh, ,03-04-2020,Evening,44,2744
+Uttar Pradesh, ,03-04-2020,Evening,7,2751
+Rajasthan, ,03-04-2020,Evening,33,2784
+Andhra Pradesh, ,03-04-2020,Evening,12,2796
+Andhra Pradesh, ,03-04-2020,Evening,6,2802
+Telangana, ,03-04-2020,Evening,27,2829
+Madhya Pradesh, ,03-04-2020,Evening,22,2851
+Madhya Pradesh, ,03-04-2020,Evening,7,2858
+Karnataka, ,03-04-2020,Evening,7,2865
+Gujarat, ,03-04-2020,Evening,8,2873
+Jammu And Kashmir, ,03-04-2020,Evening,5,2878
+Haryana, ,03-04-2020,Evening,8,2886
+West Bengal, ,03-04-2020,Evening,0,2886
+Punjab, ,03-04-2020,Evening,4,2890
+Bihar, ,03-04-2020,Evening,5,2895
+Assam, ,03-04-2020,Evening,4,2899
+Odisha, ,03-04-2020,Evening,4,2903
+Goa, ,03-04-2020,Evening,1,2904
+Uttarakhand, ,03-04-2020,Evening,3,2907
+Himachal Pradesh, ,03-04-2020,Evening,3,2910
+Pondicherry, ,03-04-2020,Evening,2,2912
+Maharashtra, ,04-04-2020,Evening,114,3026
+Tamil Nadu, ,04-04-2020,Evening,74,3100
+Delhi, ,04-04-2020,Evening,49,3149
+Delhi, ,04-04-2020,Evening,12,3161
+Kerela, ,04-04-2020,Evening,11,3172
+Telangana, ,04-04-2020,Evening,74,3246
+Telangana, ,04-04-2020,Evening,1,3247
+Uttar Pradesh, ,04-04-2020,Evening,55,3302
+Rajasthan, ,04-04-2020,Evening,34,3336
+Andhra Pradesh, ,04-04-2020,Evening,29,3365
+Karnataka, ,04-04-2020,Evening,16,3381
+Gujarat, ,04-04-2020,Evening,10,3391
+Jammu And Kashmir, ,04-04-2020,Evening,17,3408
+Haryana, ,04-04-2020,Evening,26,3434
+Haryana, ,04-04-2020,Evening,1,3435
+Punjab, ,04-04-2020,Evening,12,3447
+Punjab, ,04-04-2020,Evening,2,3449
+West Bengal, ,04-04-2020,Evening,0,3449
+Bihar, ,04-04-2020,Evening,2,3451
+Assam, ,04-04-2020,Evening,5,3456
+Uttarakhand, ,04-04-2020,Evening,12,3468
+Odisha, ,04-04-2020,Evening,11,3479
+Ladakh, ,04-04-2020,Evening,1,3480
+Chhattisgarh, ,04-04-2020,Evening,1,3481
+Goa, ,04-04-2020,Evening,1,3482
+Madhya Pradesh, ,04-04-2020,Evening,25,3507
+Andhra Pradesh, ,05-04-2020,Evening,36,3543
+Andaman And Nicobar, ,05-04-2020,Evening,0,3543
+Assam, ,05-04-2020,Evening,1,3544
+Bihar, ,05-04-2020,Evening,-1,3543
+Chhattisgarh, ,05-04-2020,Evening,0,3543
+Delhi, ,05-04-2020,Evening,58,3601
+Gujarat, ,05-04-2020,Evening,17,3618
+Haryana, ,05-04-2020,Evening,0,3618
+Himachal Pradesh, ,05-04-2020,Evening,7,3625
+Jammu And Kashmir, ,05-04-2020,Evening,14,3639
+Jharkhand, ,05-04-2020,Evening,1,3640
+Karnataka, ,05-04-2020,Evening,7,3647
+Kerela, ,05-04-2020,Evening,8,3655
+Ladakh, ,05-04-2020,Evening,0,3655
+Madhya Pradesh, ,05-04-2020,Evening,11,3666
+Maharashtra, ,05-04-2020,Evening,153,3819
+Odisha, ,05-04-2020,Evening,1,3820
+Punjab, ,05-04-2020,Evening,3,3823
+Rajasthan, ,05-04-2020,Evening,53,3876
+Tamil Nadu, ,05-04-2020,Evening,86,3962
+Telangana, ,05-04-2020,Evening,92,4054
+Uttarakhand, ,05-04-2020,Evening,4,4058
+Uttar Pradesh, ,05-04-2020,Evening,0,4058
+West Bengal, ,05-04-2020,Evening,27,4085
+Maharashtra, ,06-04-2020,Evening,178,4263
+Tamil Nadu, ,06-04-2020,Evening,50,4313
+Delhi, ,06-04-2020,Evening,22,4335
+Telangana, ,06-04-2020,Evening,43,4378
+Kerela, ,06-04-2020,Evening,13,4391
+Uttar Pradesh, ,06-04-2020,Evening,78,4469
+Andhra Pradesh, ,06-04-2020,Evening,77,4546
+Rajasthan, ,06-04-2020,Evening,48,4594
+Madhya Pradesh, ,06-04-2020,Evening,91,4685
+Karnataka, ,06-04-2020,Evening,12,4697
+Gujarat, ,06-04-2020,Evening,24,4721
+Haryana, ,06-04-2020,Evening,26,4747
+Jammu And Kashmir, ,06-04-2020,Evening,3,4750
+West Bengal, ,06-04-2020,Evening,0,4750
+Punjab, ,06-04-2020,Evening,11,4761
+Odisha, ,06-04-2020,Evening,19,4780
+Bihar, ,06-04-2020,Evening,2,4782
+Uttarakhand, ,06-04-2020,Evening,5,4787
+Assam, ,06-04-2020,Evening,0,4787
+Himachal Pradesh, ,06-04-2020,Evening,5,4792
+Jharkhand, ,06-04-2020,Evening,1,4793
+Tripura, ,06-04-2020,Evening,1,4794
+Dadra And Nagar Haveli, ,06-04-2020,Evening,1,4795
+Maharashtra, ,07-04-2020,Evening,150,4945
+Tamil Nadu, ,07-04-2020,Evening,69,5014
+Delhi, ,07-04-2020,Evening,51,5065
+Telangana, ,07-04-2020,Evening,40,5105
+Rajasthan, ,07-04-2020,Evening,42,5147
+Kerela, ,07-04-2020,Evening,9,5156
+Uttar Pradesh, ,07-04-2020,Evening,27,5183
+Andhra Pradesh, ,07-04-2020,Evening,11,5194
+Madhya Pradesh, ,07-04-2020,Evening,34,5228
+Gujarat, ,07-04-2020,Evening,29,5257
+Karnataka, ,07-04-2020,Evening,12,5269
+Haryana, ,07-04-2020,Evening,33,5302
+Jammu And Kashmir, ,07-04-2020,Evening,16,5318
+Punjab, ,07-04-2020,Evening,20,5338
+West Bengal, ,07-04-2020,Evening,11,5349
+Punjab, ,07-04-2020,Evening,0,5349
+West Bengal, ,07-04-2020,Evening,0,5349
+Odisha, ,07-04-2020,Evening,2,5351
+Bihar, ,07-04-2020,Evening,2,5353
+Uttarakhand, ,07-04-2020,Evening,0,5353
+Assam, ,07-04-2020,Evening,1,5354
+Chandigarh, ,07-04-2020,Evening,0,5354
+Himachal Pradesh, ,07-04-2020,Evening,0,5354
+Maharashtra, ,08-04-2020,Evening,117,5471
+Tamil Nadu, ,08-04-2020,Evening,48,5519
+Delhi, ,08-04-2020,Evening,93,5612
+Telangana, ,08-04-2020,Evening,49,5661
+Rajasthan, ,08-04-2020,Evening,40,5701
+Uttar Pradesh, ,08-04-2020,Evening,29,5730
+Andhra Pradesh, ,08-04-2020,Evening,34,5764
+Kerela, ,08-04-2020,Evening,9,5773
+Madhya Pradesh, ,08-04-2020,Evening,51,5824
+Gujarat, ,08-04-2020,Evening,11,5835
+Karnataka, ,08-04-2020,Evening,6,5841
+Haryana, ,08-04-2020,Evening,24,5865
+Jammu And Kashmir, ,08-04-2020,Evening,33,5898
+Punjab, ,08-04-2020,Evening,7,5905
+West Bengal, ,08-04-2020,Evening,8,5913
+Odisha, ,08-04-2020,Evening,0,5913
+Bihar, ,08-04-2020,Evening,5,5918
+Uttarakhand, ,08-04-2020,Evening,4,5922
+Assam, ,08-04-2020,Evening,1,5923
+Himachal Pradesh, ,08-04-2020,Evening,9,5932
+Chandigarh, ,08-04-2020,Evening,0,5932
+Andaman And Nicobar, ,08-04-2020,Evening,1,5933
+Maharashtra, ,09-04-2020,Evening,229,6162
+Tamil Nadu, ,09-04-2020,Evening,96,6258
+Delhi, ,09-04-2020,Evening,51,6309
+Telangana, ,09-04-2020,Evening,18,6327
+Rajasthan, ,09-04-2020,Evening,80,6407
+Madhya Pradesh, ,09-04-2020,Evening,70,6477
+Uttar Pradesh, ,09-04-2020,Evening,49,6526
+Andhra Pradesh, ,09-04-2020,Evening,15,6541
+Kerela, ,09-04-2020,Evening,12,6553
+Gujarat, ,09-04-2020,Evening,76,6629
+Karnataka, ,09-04-2020,Evening,16,6645
+Jammu And Kashmir, ,09-04-2020,Evening,26,6671
+Haryana, ,09-04-2020,Evening,3,6674
+Punjab, ,09-04-2020,Evening,24,6698
+West Bengal, ,09-04-2020,Evening,4,6702
+Bihar, ,09-04-2020,Evening,19,6721
+Odisha, ,09-04-2020,Evening,2,6723
+Uttarakhand, ,09-04-2020,Evening,0,6723
+Assam, ,09-04-2020,Evening,1,6724
+Himachal Pradesh, ,09-04-2020,Evening,1,6725
+Chhattisgarh, ,09-04-2020,Evening,8,6733
+Jharkhand, ,09-04-2020,Evening,9,6742
+Maharashtra, ,10-04-2020,Evening,210,6952
+Tamil Nadu, ,10-04-2020,Evening,77,7029
+Delhi, ,10-04-2020,Evening,183,7212
+Rajasthan, ,10-04-2020,Evening,99,7311
+Telangana, ,10-04-2020,Evening,16,7327
+Madhya Pradesh, ,10-04-2020,Evening,40,7367
+Uttar Pradesh, ,10-04-2020,Evening,23,7390
+Andhra Pradesh, ,10-04-2020,Evening,18,7408
+Gujarat, ,10-04-2020,Evening,116,7524
+Kerela, ,10-04-2020,Evening,7,7531
+Jammu And Kashmir, ,10-04-2020,Evening,23,7554
+Karnataka, ,10-04-2020,Evening,10,7564
+Haryana, ,10-04-2020,Evening,6,7570
+Punjab, ,10-04-2020,Evening,21,7591
+West Bengal, ,10-04-2020,Evening,13,7604
+Bihar, ,10-04-2020,Evening,2,7606
+Odisha, ,10-04-2020,Evening,4,7610
+Chandigarh, ,10-04-2020,Evening,1,7611
+Ladakh, ,10-04-2020,Evening,1,7612
+Jharkhand, ,10-04-2020,Evening,1,7613
+Pondicherry, ,10-04-2020,Evening,2,7615
+Tripura, ,10-04-2020,Evening,1,7616
+Maharashtra, ,11-04-2020,Evening,187,7803
+Delhi, ,11-04-2020,Evening,166,7969
+Tamil Nadu, ,11-04-2020,Evening,58,8027
+Rajasthan, ,11-04-2020,Evening,116,8143
+Telangana, ,11-04-2020,Evening,0,8143
+Gujarat, ,11-04-2020,Evening,90,8233
+Uttar Pradesh, ,11-04-2020,Evening,19,8252
+Madhya Pradesh, ,11-04-2020,Evening,0,8252
+Andhra Pradesh, ,11-04-2020,Evening,24,8276
+Kerela, ,11-04-2020,Evening,9,8285
+Jammu And Kashmir, ,11-04-2020,Evening,17,8302
+Karnataka, ,11-04-2020,Evening,8,8310
+Haryana, ,11-04-2020,Evening,3,8313
+Punjab, ,11-04-2020,Evening,7,8320
+West Bengal, ,11-04-2020,Evening,10,8330
+Bihar, ,11-04-2020,Evening,1,8331
+Odisha, ,11-04-2020,Evening,2,8333
+Himachal Pradesh, ,11-04-2020,Evening,4,8337
+Jharkhand, ,11-04-2020,Evening,3,8340
+Maharashtra, ,12-04-2020,Evening,221,8561
+Delhi, ,12-04-2020,Evening,85,8646
+Tamil Nadu, ,12-04-2020,Evening,106,8752
+Rajasthan, ,12-04-2020,Evening,126,8878
+Madhya Pradesh, ,12-04-2020,Evening,111,8989
+Telangana, ,12-04-2020,Evening,44,9033
+Gujarat, ,12-04-2020,Evening,48,9081
+Uttar Pradesh, ,12-04-2020,Evening,31,9112
+Andhra Pradesh, ,12-04-2020,Evening,15,9127
+Kerela, ,12-04-2020,Evening,2,9129
+Jammu And Kashmir, ,12-04-2020,Evening,21,9150
+Karnataka, ,12-04-2020,Evening,17,9167
+Haryana, ,12-04-2020,Evening,16,9183
+Punjab, ,12-04-2020,Evening,12,9195
+West Bengal, ,12-04-2020,Evening,8,9203
+Bihar, ,12-04-2020,Evening,3,9206
+Odisha, ,12-04-2020,Evening,4,9210
+Chhattisgarh, ,12-04-2020,Evening,7,9217
+Chandigarh, ,12-04-2020,Evening,2,9219
+Jharkhand, ,12-04-2020,Evening,2,9221
+Maharashtra, ,14-04-2020,Evening,702,9923
+Delhi, ,14-04-2020,Evening,407,10330
+Tamil Nadu, ,14-04-2020,Evening,129,10459
+Rajasthan, ,14-04-2020,Evening,201,10660
+Madhya Pradesh, ,14-04-2020,Evening,179,10839
+Uttar Pradesh, ,14-04-2020,Evening,177,11016
+Gujarat, ,14-04-2020,Evening,134,11150
+Telangana, ,14-04-2020,Evening,113,11263
+Andhra Pradesh, ,14-04-2020,Evening,53,11316
+Kerela, ,14-04-2020,Evening,11,11327
+Jammu And Kashmir, ,14-04-2020,Evening,33,11360
+Karnataka, ,14-04-2020,Evening,28,11388
+Haryana, ,14-04-2020,Evening,3,11391
+West Bengal, ,14-04-2020,Evening,56,11447
+Punjab, ,14-04-2020,Evening,14,11461
+Bihar, ,14-04-2020,Evening,2,11463
+Odisha, ,14-04-2020,Evening,6,11469
+Uttarakhand, ,14-04-2020,Evening,2,11471
+Chhattisgarh, ,14-04-2020,Evening,8,11479
+Assam, ,14-04-2020,Evening,3,11482
+Himachal Pradesh, ,14-04-2020,Evening,0,11482
+Jharkhand, ,14-04-2020,Evening,8,11490
+Ladakh, ,14-04-2020,Evening,2,11492
+Meghalaya, ,14-04-2020,Evening,1,11493
+Nagaland, ,14-04-2020,Evening,1,11494
+Maharashtra, ,15-04-2020,Evening,232,11726
+Delhi, ,15-04-2020,Evening,0,11726
+Tamil Nadu, ,15-04-2020,Evening,38,11764
+Rajasthan, ,15-04-2020,Evening,41,11805
+Uttar Pradesh, ,15-04-2020,Evening,75,11880
+Gujarat, ,15-04-2020,Evening,45,11925
+Telangana, ,15-04-2020,Evening,0,11925
+Andhra Pradesh, ,15-04-2020,Evening,29,11954
+Kerela, ,15-04-2020,Evening,1,11955
+Jammu And Kashmir, ,15-04-2020,Evening,22,11977
+Karnataka, ,15-04-2020,Evening,19,11996
+West Bengal, ,15-04-2020,Evening,23,12019
+Haryana, ,15-04-2020,Evening,6,12025
+Punjab, ,15-04-2020,Evening,2,12027
+Bihar, ,15-04-2020,Evening,4,12031
+Himachal Pradesh, ,15-04-2020,Evening,1,12032
+Meghalaya, ,15-04-2020,Evening,6,12038
+Maharashtra, ,15-04-2020,Evening,0,12038
+Delhi, ,15-04-2020,Evening,17,12055
+Tamil Nadu, ,15-04-2020,Evening,0,12055
+Rajasthan, ,15-04-2020,Evening,0,12055
+Madhya Pradesh, ,15-04-2020,Evening,197,12252
+Gujarat, ,15-04-2020,Evening,71,12323
+Uttar Pradesh, ,15-04-2020,Evening,0,12323
+Telangana, ,15-04-2020,Evening,6,12329
+Andhra Pradesh, ,15-04-2020,Evening,23,12352
+Kerela, ,15-04-2020,Evening,0,12352
+Bihar, ,15-04-2020,Evening,2,12354
+Himachal Pradesh, ,15-04-2020,Evening,2,12356
+Jharkhand, ,15-04-2020,Evening,1,12357
+Maharashtra, ,16-04-2020,Evening,286,12643
+Delhi, ,16-04-2020,Evening,62,12705
+Tamil Nadu, ,16-04-2020,Evening,25,12730
+Madhya Pradesh, ,16-04-2020,Evening,226,12956
+Rajasthan, ,16-04-2020,Evening,85,13041
+Gujarat, ,16-04-2020,Evening,163,13204
+Uttar Pradesh, ,16-04-2020,Evening,70,13274
+Telangana, ,16-04-2020,Evening,50,13324
+Andhra Pradesh, ,16-04-2020,Evening,9,13333
+Kerela, ,16-04-2020,Evening,7,13340
+Karnataka, ,16-04-2020,Evening,36,13376
+Jammu And Kashmir, ,16-04-2020,Evening,14,13390
+West Bengal, ,16-04-2020,Evening,18,13408
+Haryana, ,16-04-2020,Evening,11,13419
+Punjab, ,16-04-2020,Evening,11,13430
+Bihar, ,16-04-2020,Evening,8,13438
+Odisha, ,16-04-2020,Evening,20,13458
+Uttarakhand, ,16-04-2020,Evening,0,13458
+Jharkhand, ,16-04-2020,Evening,1,13459
+Ladakh, ,16-04-2020,Evening,1,13460
+Odisha, ,16-04-2020,Evening,-20,13440
+Assam, ,16-04-2020,Evening,2,13442
+Delhi, ,17-04-2020,Evening,67,13509
+Maharashtra, ,17-04-2020,Evening,118,13627
+Tamil Nadu, ,17-04-2020,Evening,56,13683
+Madhya Pradesh, ,17-04-2020,Evening,146,13829
+Rajasthan, ,17-04-2020,Evening,98,13927
+Gujarat, ,17-04-2020,Evening,170,14097
+Uttar Pradesh, ,17-04-2020,Evening,44,14141
+Telangana, ,17-04-2020,Evening,66,14207
+Andhra Pradesh, ,17-04-2020,Evening,38,14245
+Kerela, ,17-04-2020,Evening,1,14246
+Karnataka, ,17-04-2020,Evening,44,14290
+Jammu And Kashmir, ,17-04-2020,Evening,14,14304
+West Bengal, ,17-04-2020,Evening,24,14328
+Haryana, ,17-04-2020,Evening,8,14336
+Punjab, ,17-04-2020,Evening,14,14350
+Bihar, ,17-04-2020,Evening,3,14353
+Uttarakhand, ,17-04-2020,Evening,3,14356
+Chhattisgarh, ,17-04-2020,Evening,3,14359
+Himachal Pradesh, ,17-04-2020,Evening,0,14359
+Jharkhand, ,17-04-2020,Evening,3,14362
+Chandigarh, ,17-04-2020,Evening,0,14362
+Andaman And Nicobar, ,17-04-2020,Evening,1,14363
+Meghalaya, ,17-04-2020,Evening,2,14365
+Maharashtra, ,18-04-2020,Evening,328,14693
+Delhi, ,18-04-2020,Evening,186,14879
+Madhya Pradesh, ,18-04-2020,Evening,92,14971
+Gujarat, ,18-04-2020,Evening,277,15248
+Tamil Nadu, ,18-04-2020,Evening,49,15297
+Rajasthan, ,18-04-2020,Evening,122,15419
+Uttar Pradesh, ,18-04-2020,Evening,125,15544
+Telangana, ,18-04-2020,Evening,43,15587
+Andhra Pradesh, ,18-04-2020,Evening,31,15618
+Kerela, ,18-04-2020,Evening,4,15622
+Karnataka, ,18-04-2020,Evening,25,15647
+Jammu And Kashmir, ,18-04-2020,Evening,13,15660
+West Bengal, ,18-04-2020,Evening,32,15692
+Punjab,,18-04-2020,Evening,23,15715
+Haryana, ,18-04-2020,Evening,9,15724
+Bihar, ,18-04-2020,Evening,3,15727
+Odisha, ,18-04-2020,Evening,1,15728
+Uttarakhand, ,18-04-2020,Evening,2,15730
+Himachal Pradesh, ,18-04-2020,Evening,4,15734
+Chhattisgarh, ,18-04-2020,Evening,0,15734
+Assam, ,18-04-2020,Evening,0,15734
+Jharkhand, ,18-04-2020,Evening,0,15734
+Chandigarh, ,18-04-2020,Evening,2,15736
+Ladakh, ,18-04-2020,Evening,0,15736
+Andaman And Nicobar, ,18-04-2020,Evening,2,15738
+Meghalaya, ,18-04-2020,Evening,2,15740
+Maharashtra, ,19-04-2020,Evening,552,16292
+Delhi, ,19-04-2020,Evening,0,16292
+Gujarat, ,19-04-2020,Evening,367,16659
+Tamil Nadu, ,19-04-2020,Evening,105,16764
+Rajasthan, ,19-04-2020,Evening,80,16844
+Madhya Pradesh, ,19-04-2020,Evening,5,16849
+Uttar Pradesh, ,19-04-2020,Evening,125,16974
+Telangana, ,19-04-2020,Evening,49,17023
+Andhra Pradesh, ,19-04-2020,Evening,44,17067
+Kerela, ,19-04-2020,Evening,2,17069
+Karnataka, ,19-04-2020,Evening,6,17075
+Jammu And Kashmir, ,19-04-2020,Evening,9,17084
+West Bengal, ,19-04-2020,Evening,23,17107
+Haryana, ,19-04-2020,Evening,18,17125
+Punjab, ,19-04-2020,Evening,10,17135
+Bihar, ,19-04-2020,Evening,7,17142
+Odisha, ,19-04-2020,Evening,0,17142
+Jharkhand, ,19-04-2020,Evening,9,17151
+Chandigarh, ,19-04-2020,Evening,3,17154
+Andaman And Nicobar, ,19-04-2020,Evening,1,17155
+Maharashtra, ,20-04-2020,Evening,466,17621
+Delhi, ,20-04-2020,Evening,110,17731
+Gujarat, ,20-04-2020,Evening,251,17982
+Rajasthan, ,20-04-2020,Evening,104,18086
+Tamil Nadu, ,20-04-2020,Evening,43,18129
+Madhya Pradesh, ,20-04-2020,Evening,78,18207
+Uttar Pradesh, ,20-04-2020,Evening,85,18292
+Telangana, ,20-04-2020,Evening,14,18306
+Andhra Pradesh, ,20-04-2020,Evening,75,18381
+Karnataka, ,20-04-2020,Evening,18,18399
+Kerela, ,20-04-2020,Evening,6,18405
+Jammu And Kashmir, ,20-04-2020,Evening,18,18423
+West Bengal, ,20-04-2020,Evening,29,18452
+Haryana, ,20-04-2020,Evening,1,18453
+Punjab, ,20-04-2020,Evening,1,18454
+Bihar, ,20-04-2020,Evening,4,18458
+Odisha, ,20-04-2020,Evening,13,18471
+Uttarakhand, ,20-04-2020,Evening,2,18473
+Jharkhand, ,20-04-2020,Evening,1,18474
+Himachal Pradesh, ,20-04-2020,Evening,0,18474
+Assam, ,20-04-2020,Evening,1,18475
+Andaman And Nicobar, ,20-04-2020,Evening,1,18476
+Maharashtra, ,21-04-2020,Evening,552,19028
+Gujarat, ,21-04-2020,Evening,184,19212
+Delhi, ,21-04-2020,Evening,153,19365
+Rajasthan, ,21-04-2020,Evening,124,19489
+Tamil Nadu, ,21-04-2020,Evening,76,19565
+Madhya Pradesh, ,21-04-2020,Evening,67,19632
+Uttar Pradesh, ,21-04-2020,Evening,153,19785
+Telangana, ,21-04-2020,Evening,56,19841
+Andhra Pradesh, ,21-04-2020,Evening,35,19876
+Kerela, ,21-04-2020,Evening,19,19895
+Karnataka, ,21-04-2020,Evening,10,19905
+West Bengal, ,21-04-2020,Evening,53,19958
+Jammu And Kashmir, ,21-04-2020,Evening,12,19970
+Haryana, ,21-04-2020,Evening,4,19974
+Punjab, ,21-04-2020,Evening,6,19980
+Bihar, ,21-04-2020,Evening,29,20009
+Odisha, ,21-04-2020,Evening,5,20014
+Uttarakhand, ,21-04-2020,Evening,2,20016
+Jharkhand, ,21-04-2020,Evening,4,20020
+Chandigarh, ,21-04-2020,Evening,1,20021
+Andaman And Nicobar, ,21-04-2020,Evening,1,20022
+Meghalaya, ,21-04-2020,Evening,1,20023
+Maharashtra, ,22-04-2020,Evening,431,20454
+Gujarat,,22-04-2020,Evening,229,20683
+Delhi,,22-04-2020,Evening,92,20775
+Rajasthan,,22-04-2020,Evening,209,20984
+Tamil Nadu,,22-04-2020,Evening,33,21017
+Madhya Pradesh,,22-04-2020,Evening,35,21052
+Uttar Pradesh,,22-04-2020,Evening,112,21164
+Telangana,,22-04-2020,Evening,15,21179
+Andhra Pradesh,,22-04-2020,Evening,56,21235
+Kerela,,22-04-2020,Evening,11,21246
+Karnataka,,22-04-2020,Evening,9,21255
+West Bengal,,22-04-2020,Evening,31,21286
+Jammu And Kashmir,,22-04-2020,Evening,27,21313
+Punjab,,22-04-2020,Evening,27,21340
+Haryana,,22-04-2020,Evening,9,21349
+Bihar,,22-04-2020,Evening,15,21364
+Odisha,,22-04-2020,Evening,5,21369
+Odisha, ,22-04-2020,Evening,-1,21368
+Andaman And Nicobar,,22-04-2020,Evening,1,21369
