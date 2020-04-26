@@ -42,5 +42,3 @@ while int(input("1 to Add\n0 to close")):
     print(data)
     data.to_csv('covid-19(india).csv', index=False)
     
-
-
