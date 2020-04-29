@@ -721,29 +721,177 @@ Jharkhand, ,21-04-2020,Evening,4,20020
 Chandigarh, ,21-04-2020,Evening,1,20021
 Andaman And Nicobar, ,21-04-2020,Evening,1,20022
 Meghalaya, ,21-04-2020,Evening,1,20023
-Maharashtra,,28-04-2020,Evening,3372,23395
-Gujarat,,28-04-2020,Evening,1596,24991
-Delhi,,28-04-2020,Evening,1158,26149
-Madhya Pradesh,,28-04-2020,Evening,835,26984
-Rajasthan,,28-04-2020,Evening,705,27689
-Tamil Nadu,,28-04-2020,Evening,462,28151
-Uttar Pradesh,,28-04-2020,Evening,716,28867
-Andhra Pradesh,,28-04-2020,Evening,502,29369
-Telangana,,28-04-2020,Evening,81,29450
-West Bengal,,28-04-2020,Evening,305,29755
-Jammu And Kashmir,,28-04-2020,Evening,185,29940
-Karnataka,,28-04-2020,Evening,105,30045
-Kerela,,28-04-2020,Evening,60,30105
-Bihar,,28-04-2020,Evening,240,30345
-Punjab,,28-04-2020,Evening,91,30436
-Haryana,,28-04-2020,Evening,53,30489
-Odisha,,28-04-2020,Evening,39,30528
-Jharkhand,,28-04-2020,Evening,59,30587
-Chandigarh,,28-04-2020,Evening,29,30616
-Uttarakhand,,28-04-2020,Evening,8,30624
-Himachal Pradesh,,28-04-2020,Evening,1,30625
-Assam,,28-04-2020,Evening,3,30628
-Chhattisgarh,,28-04-2020,Evening,1,30629
-Andaman And Nicobar,,28-04-2020,Evening,16,30645
-Ladakh,,28-04-2020,Evening,4,30649
-Pondicherry,,28-04-2020,Evening,1,30650
+Maharashtra, ,22-04-2020,Evening,431,20454
+Gujarat,,22-04-2020,Evening,229,20683
+Delhi,,22-04-2020,Evening,92,20775
+Rajasthan,,22-04-2020,Evening,209,20984
+Tamil Nadu,,22-04-2020,Evening,33,21017
+Madhya Pradesh,,22-04-2020,Evening,35,21052
+Uttar Pradesh,,22-04-2020,Evening,112,21164
+Telangana,,22-04-2020,Evening,15,21179
+Andhra Pradesh,,22-04-2020,Evening,56,21235
+Kerela,,22-04-2020,Evening,11,21246
+Karnataka,,22-04-2020,Evening,9,21255
+West Bengal,,22-04-2020,Evening,31,21286
+Jammu And Kashmir,,22-04-2020,Evening,27,21313
+Punjab,,22-04-2020,Evening,27,21340
+Haryana,,22-04-2020,Evening,9,21349
+Bihar,,22-04-2020,Evening,15,21364
+Odisha,,22-04-2020,Evening,5,21369
+Odisha, ,22-04-2020,Evening,-1,21368
+Andaman And Nicobar,,22-04-2020,Evening,1,21369
+Maharashtra, ,23-04-2020,Evening,778,22147
+Gujarat, ,23-04-2020,Evening,217,22364
+Delhi, ,23-04-2020,Evening,128,22492
+Rajasthan, ,23-04-2020,Evening,96,22588
+Madhya Pradesh, ,23-04-2020,Evening,100,22688
+Tamil Nadu, ,23-04-2020,Evening,54,22742
+Uttar Pradesh, ,23-04-2020,Evening,61,22803
+Telangana, ,23-04-2020,Evening,27,22830
+Andhra Pradesh, ,23-04-2020,Evening,80,22910
+West Bengal, ,23-04-2020,Evening,33,22943
+Kerela, ,23-04-2020,Evening,10,22953
+Karnataka, ,23-04-2020,Evening,18,22971
+Jammu And Kashmir, ,23-04-2020,Evening,27,22998
+Punjab, ,23-04-2020,Evening,5,23003
+Haryana, ,23-04-2020,Evening,6,23009
+Bihar, ,23-04-2020,Evening,19,23028
+Odisha, ,23-04-2020,Evening,6,23034
+Jharkhand, ,23-04-2020,Evening,7,23041
+Uttarakhand, ,23-04-2020,Evening,1,23042
+Himachal Pradesh, ,23-04-2020,Evening,1,23043
+Assam, ,23-04-2020,Evening,1,23044
+Chhattisgarh, ,23-04-2020,Evening,0,23044
+Chandigarh, ,23-04-2020,Evening,0,23044
+Andaman And Nicobar, ,23-04-2020,Evening,4,23048
+Maharashtra, ,24-04-2020,Evening,390,23438
+Gujarat, ,24-04-2020,Evening,191,23629
+Delhi, ,24-04-2020,Evening,138,23767
+Rajasthan, ,24-04-2020,Evening,95,23862
+Madhya Pradesh, ,24-04-2020,Evening,159,24021
+Tamil Nadu, ,24-04-2020,Evening,72,24093
+Uttar Pradesh, ,24-04-2020,Evening,111,24204
+Telangana, ,24-04-2020,Evening,13,24217
+Andhra Pradesh, ,24-04-2020,Evening,62,24279
+West Bengal, ,24-04-2020,Evening,115,24394
+Karnataka, ,24-04-2020,Evening,29,24423
+Jammu And Kashmir, ,24-04-2020,Evening,20,24443
+Kerela, ,24-04-2020,Evening,3,24446
+Punjab, ,24-04-2020,Evening,15,24461
+Haryana, ,24-04-2020,Evening,5,24466
+Bihar, ,24-04-2020,Evening,65,24531
+Odisha, ,24-04-2020,Evening,5,24536
+Jharkhand, ,24-04-2020,Evening,6,24542
+Uttarakhand, ,24-04-2020,Evening,1,24543
+Chhattisgarh, ,24-04-2020,Evening,1,24544
+Andaman And Nicobar, ,24-04-2020,Evening,7,24551
+Maharashtra, ,25-04-2020,Morning,811,25362
+Gujarat, ,25-04-2020,Morning,256,25618
+Delhi, ,25-04-2020,Morning,111,25729
+Rajasthan, ,25-04-2020,Morning,24,25753
+Madhya Pradesh, ,25-04-2020,Morning,99,25852
+Tamil Nadu, ,25-04-2020,Morning,66,25918
+Uttar Pradesh, ,25-04-2020,Morning,172,26090
+Andhra Pradesh, ,25-04-2020,Morning,61,26151
+Telangana, ,25-04-2020,Morning,7,26158
+West Bengal, ,25-04-2020,Morning,0,26158
+Karnataka, ,25-04-2020,Morning,26,26184
+Jammu And Kashmir, ,25-04-2020,Morning,40,26224
+Kerela, ,25-04-2020,Morning,8,26232
+Punjab, ,25-04-2020,Morning,10,26242
+Haryana, ,25-04-2020,Morning,12,26254
+Bihar, ,25-04-2020,Morning,26,26280
+Odisha, ,25-04-2020,Morning,6,26286
+Jharkhand, ,25-04-2020,Morning,8,26294
+Uttarakhand, ,25-04-2020,Evening,0,26294
+Andaman And Nicobar, ,25-04-2020,Evening,4,26298
+Chandigarh, ,25-04-2020,Evening,1,26299
+Ladakh, ,25-04-2020,Evening,2,26301
+Meghalaya, ,25-04-2020,Evening,0,26301
+Pondicherry, ,25-04-2020,Evening,1,26302
+Maharashtra, ,26-04-2020,Evening,440,26742
+Gujarat, ,26-04-2020,Evening,230,26972
+Rajasthan, ,26-04-2020,Evening,102,27074
+Delhi, ,26-04-2020,Evening,293,27367
+Madhya Pradesh, ,26-04-2020,Evening,145,27512
+Tamil Nadu, ,26-04-2020,Evening,64,27576
+Uttar Pradesh, ,26-04-2020,Evening,80,27656
+Andhra Pradesh, ,26-04-2020,Evening,81,27737
+Telangana, ,26-04-2020,Evening,11,27748
+West Bengal, ,26-04-2020,Evening,40,27788
+Jammu And Kashmir, ,26-04-2020,Evening,29,27817
+Karnataka, ,26-04-2020,Evening,3,27820
+Kerela, ,26-04-2020,Evening,11,27831
+Punjab, ,26-04-2020,Evening,14,27845
+Haryana, ,26-04-2020,Evening,9,27854
+Bihar, ,26-04-2020,Evening,23,27877
+Odisha, ,26-04-2020,Evening,3,27880
+Jharkhand, ,26-04-2020,Evening,15,27895
+Uttarakhand, ,26-04-2020,Evening,2,27897
+Himachal Pradesh, ,26-04-2020,Evening,0,27897
+Chandigarh, ,26-04-2020,Evening,8,27905
+Maharashtra, ,27-04-2020,Evening,522,28427
+Gujarat, ,27-04-2020,Evening,247,28674
+Delhi, ,27-04-2020,Evening,190,28864
+Rajasthan, ,27-04-2020,Evening,77,28941
+Madhya Pradesh, ,27-04-2020,Evening,75,29016
+Uttar Pradesh, ,27-04-2020,Evening,113,29129
+Tamil Nadu, ,27-04-2020,Evening,52,29181
+Andhra Pradesh,,27-04-2020,Evening,80,29261
+Telangana, ,27-04-2020,Evening,2,29263
+West Bengal, ,27-04-2020,Evening,38,29301
+Jammu And Kashmir, ,27-04-2020,Evening,23,29324
+Karnataka, ,27-04-2020,Evening,9,29333
+Kerela, ,27-04-2020,Evening,13,29346
+Bihar, ,27-04-2020,Evening,71,29417
+Punjab, ,27-04-2020,Evening,8,29425
+Haryana, ,27-04-2020,Evening,5,29430
+Odisha, ,27-04-2020,Evening,8,29438
+Jharkhand, ,27-04-2020,Evening,21,29459
+Uttarakhand, ,27-04-2020,Evening,1,29460
+Chandigarh, ,27-04-2020,Evening,9,29469
+Maharashtra, ,28-04-2020,Evening,0,29469
+Gujarat, ,28-04-2020,Evening,226,29695
+Delhi, ,28-04-2020,Evening,206,29901
+Rajasthan, ,28-04-2020,Evening,102,30003
+Tamil Nadu, ,28-04-2020,Evening,121,30124
+Uttar Pradesh, ,28-04-2020,Evening,67,30191
+Andhra Pradesh, ,28-04-2020,Evening,82,30273
+Telangana, ,28-04-2020,Evening,6,30279
+West Bengal, ,28-04-2020,Evening,48,30327
+Jammu And Kashmir, ,28-04-2020,Evening,19,30346
+Karnataka, ,28-04-2020,Evening,11,30357
+Kerela, ,28-04-2020,Evening,4,30361
+Bihar, ,28-04-2020,Evening,21,30382
+Punjab, ,28-04-2020,Evening,12,30394
+Haryana, ,28-04-2020,Evening,7,30401
+Odisha, ,28-04-2020,Evening,7,30408
+Jharkhand, ,28-04-2020,Evening,2,30410
+Chandigarh, ,28-04-2020,Evening,11,30421
+Uttarakhand, ,28-04-2020,Evening,3,30424
+Himachal Pradesh, ,28-04-2020,Evening,0,30424
+Ladakh, ,28-04-2020,Evening,2,30426
+Maharashtra, ,29-04-2020,Evening,1325,31751
+Gujarat, ,29-04-2020,Evening,308,32059
+Delhi, ,29-04-2020,Evening,0,32059
+Madhya Pradesh, ,29-04-2020,Evening,395,32454
+Rajasthan, ,29-04-2020,Evening,74,32528
+Tamil Nadu, ,29-04-2020,Evening,104,32632
+Uttar Pradesh, ,29-04-2020,Evening,81,32713
+Andhra Pradesh, ,29-04-2020,Evening,73,32786
+Telangana, ,29-04-2020,Evening,7,32793
+West Bengal, ,29-04-2020,Evening,28,32821
+Jammu And Kashmir, ,29-04-2020,Evening,16,32837
+Karnataka, ,29-04-2020,Evening,11,32848
+Kerela, ,29-04-2020,Evening,10,32858
+Bihar, ,29-04-2020,Evening,37,32895
+Punjab, ,29-04-2020,Evening,33,32928
+Haryana, ,29-04-2020,Evening,3,32931
+Odisha, ,29-04-2020,Evening,7,32938
+Jharkhand, ,29-04-2020,Evening,2,32940
+Chandigarh, ,29-04-2020,Evening,12,32952
+Uttarakhand, ,29-04-2020,Evening,0,32952
+Himachal Pradesh, ,29-04-2020,Evening,0,32952
+Assam, ,29-04-2020,Evening,2,32954
+Chhattisgarh, ,29-04-2020,Evening,1,32955
+Andaman And Nicobar, ,29-04-2020,Evening,0,32955
