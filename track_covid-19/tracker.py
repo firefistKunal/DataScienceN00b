@@ -9,7 +9,7 @@ data=pd.read_csv('covid-19(India).csv')
 
 #     return dt.now().strftime("%d-%m-%Y")
 def date():
-    day=dt.now()-td(2)
+    day=dt.now()-td(1)
     return day.strftime("%d-%m-%Y")
 
 def time():
